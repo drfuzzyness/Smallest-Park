@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ScappleDocument Version="1.1" ID="E0FB3B5B-BE9E-40D5-8DB6-D34198201C58">
+    <Notes>
+        <Note ID="1" FontSize="12.0" Position="622.265625,786.773438" Width="96.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Abandoned Lot</String>
+            <ConnectedNoteIDs>11</ConnectedNoteIDs>
+            <PointsToNoteIDs>11</PointsToNoteIDs>
+            <Formatting>
+                <FormatRange Bold="Yes">0,13</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="2" FontSize="12.0" Position="652.342634,65.857561" Width="35.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Park</String>
+            <ConnectedNoteIDs>6, 41</ConnectedNoteIDs>
+            <Formatting>
+                <FormatRange Bold="Yes">0,4</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="3" FontSize="12.0" Position="723.620396,358.734096" Width="153.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Clean (Fixed Maintenance)</String>
+            <ConnectedNoteIDs>4, 7-8, 10-11, 14</ConnectedNoteIDs>
+            <PointsToNoteIDs>4, 7-8, 10</PointsToNoteIDs>
+        </Note>
+        <Note ID="4" FontSize="12.0" Position="490.946987,353.271624" Width="114.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Add things (Capital)</String>
+            <ConnectedNoteIDs>3, 9, 11, 13, 19-20</ConnectedNoteIDs>
+            <PointsToNoteIDs>9, 11, 19-20</PointsToNoteIDs>
+        </Note>
+        <Note ID="6" FontSize="12.0" Position="593.513672,122.612444" Width="155.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>City recognizes your park</String>
+            <ConnectedNoteIDs>2, 21</ConnectedNoteIDs>
+            <PointsToNoteIDs>2</PointsToNoteIDs>
+            <Formatting>
+                <FormatRange Bold="Yes">0,25</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="7" FontSize="12.0" Position="1013.1363,492.567941" Width="73.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Clean Trash</String>
+            <ConnectedNoteIDs>3</ConnectedNoteIDs>
+            <Formatting>
+                <FormatRange Italic="Yes">0,11</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="8" FontSize="12.0" Position="1041.02832,429.690011" Width="65.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Gardening</String>
+            <ConnectedNoteIDs>3</ConnectedNoteIDs>
+            <Formatting>
+                <FormatRange Italic="Yes">0,9</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="9" FontSize="12.0" Position="438.113281,495.421177" Width="60.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Add trees</String>
+            <ConnectedNoteIDs>4</ConnectedNoteIDs>
+        </Note>
+        <Note ID="10" FontSize="12.0" Position="1020.806083,385.379185" Width="50.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Mowing</String>
+            <ConnectedNoteIDs>3</ConnectedNoteIDs>
+            <Formatting>
+                <FormatRange Italic="Yes">0,6</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="11" FontSize="12.0" Position="596.381836,446.722656" Width="137.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>You improve over time</String>
+            <ConnectedNoteIDs>1, 3-4</ConnectedNoteIDs>
+            <PointsToNoteIDs>3</PointsToNoteIDs>
+            <Formatting>
+                <FormatRange Bold="Yes">0,21</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="12" FontSize="12.0" Position="199.617188,292.288923" Width="69.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Cooldown?</String>
+            <ConnectedNoteIDs>13, 33</ConnectedNoteIDs>
+            <Formatting>
+                <FormatRange Italic="Yes">0,9</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="13" FontSize="12.0" Position="364.900809,293.216936" Width="190.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Limiting resource for improvement</String>
+            <ConnectedNoteIDs>4, 12, 16-17</ConnectedNoteIDs>
+        </Note>
+        <Note ID="14" FontSize="12.0" Position="817.801618,321.901228" Width="189.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Limiting resource for maintanence</String>
+            <ConnectedNoteIDs>3, 15</ConnectedNoteIDs>
+        </Note>
+        <Note ID="15" FontSize="12.0" Position="1112.183454,306.08245" Width="81.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Clicking effort</String>
+            <ConnectedNoteIDs>14</ConnectedNoteIDs>
+            <PointsToNoteIDs>14</PointsToNoteIDs>
+            <Formatting>
+                <FormatRange Italic="Yes">0,15</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="16" FontSize="12.0" Position="270.620257,229.797712" Width="59.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Funding?</String>
+            <ConnectedNoteIDs>13, 32</ConnectedNoteIDs>
+            <Formatting>
+                <FormatRange Italic="Yes">0,8</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="17" FontSize="12.0" Position="270.696568,343.893834" Width="44.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Effort?</String>
+            <ConnectedNoteIDs>13, 34</ConnectedNoteIDs>
+            <Formatting>
+                <FormatRange Italic="Yes">0,7</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="19" FontSize="12.0" Position="362.0,440.0" Width="63.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Add paths</String>
+            <ConnectedNoteIDs>4</ConnectedNoteIDs>
+            <Formatting>
+                <FormatRange Italic="Yes">0,9</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="20" FontSize="12.0" Position="303.907366,400.827148" Width="79.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Add benches</String>
+            <ConnectedNoteIDs>4</ConnectedNoteIDs>
+            <Formatting>
+                <FormatRange Italic="Yes">0,11</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="21" FontSize="12.0" Position="603.329799,189.620815" Width="132.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>You have a nice place</String>
+            <ConnectedNoteIDs>6, 35</ConnectedNoteIDs>
+            <PointsToNoteIDs>6</PointsToNoteIDs>
+            <Formatting>
+                <FormatRange Bold="Yes">0,21</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="22" FontSize="12.0" Position="177.0,631.0" Width="99.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Desired conflict</String>
+            <ConnectedNoteIDs>29-31</ConnectedNoteIDs>
+            <Formatting>
+                <FormatRange Bold="Yes">0,16</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="23" FontSize="12.0" Position="108.000698,668.961217" Width="68.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Wilderness</String>
+            <ConnectedNoteIDs>24-25, 29-30</ConnectedNoteIDs>
+            <PointsToNoteIDs>29-30</PointsToNoteIDs>
+        </Note>
+        <Note ID="24" FontSize="12.0" Position="287.621094,670.892439" Width="67.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Practicality</String>
+            <ConnectedNoteIDs>23, 25, 29, 31</ConnectedNoteIDs>
+            <PointsToNoteIDs>29, 31</PointsToNoteIDs>
+        </Note>
+        <Note ID="25" FontSize="12.0" Position="200.134487,546.892857" Width="53.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Serenity</String>
+            <ConnectedNoteIDs>23-24, 30-31</ConnectedNoteIDs>
+            <PointsToNoteIDs>30-31</PointsToNoteIDs>
+        </Note>
+        <Note ID="29" FontSize="12.0" Position="209.088449,793.806083" Width="39.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Paths</String>
+            <ConnectedNoteIDs>22-24</ConnectedNoteIDs>
+            <Formatting>
+                <FormatRange Italic="Yes">0,5</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="30" FontSize="12.0" Position="42.278041,546.202427" Width="39.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Trees</String>
+            <ConnectedNoteIDs>22-23, 25</ConnectedNoteIDs>
+            <Formatting>
+                <FormatRange Italic="Yes">0,5</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="31" FontSize="12.0" Position="367.134905,550.068778" Width="55.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Benches</String>
+            <ConnectedNoteIDs>22, 24-25</ConnectedNoteIDs>
+            <Formatting>
+                <FormatRange Italic="Yes">0,7</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="32" FontSize="12.0" Position="218.0,184.0" Width="93.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Too much detail</String>
+            <ConnectedNoteIDs>16</ConnectedNoteIDs>
+            <Formatting>
+                <FormatRange Italic="Yes">0,15</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="33" FontSize="12.0" Position="94.0,292.0" Width="66.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Too trivial?</String>
+            <ConnectedNoteIDs>12</ConnectedNoteIDs>
+            <Formatting>
+                <FormatRange Italic="Yes">0,12</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="34" FontSize="12.0" Position="173.928571,398.546735" Width="81.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Too abstract?</String>
+            <ConnectedNoteIDs>17</ConnectedNoteIDs>
+        </Note>
+        <Note ID="35" FontSize="12.0" Position="628.175921,386.351842" Width="71.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Game loop</String>
+            <ConnectedNoteIDs>21</ConnectedNoteIDs>
+            <PointsToNoteIDs>21</PointsToNoteIDs>
+            <Formatting>
+                <FormatRange Bold="Yes">0,9</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="37" FontSize="12.0" Position="932.158761,656.153878" Width="60.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>People…</String>
+            <ConnectedNoteIDs>38-40</ConnectedNoteIDs>
+            <Formatting>
+                <FormatRange Bold="Yes">0,7</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="38" FontSize="12.0" Position="968.504185,605.06236" Width="20.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>?</String>
+            <ConnectedNoteIDs>37</ConnectedNoteIDs>
+            <PointsToNoteIDs>37</PointsToNoteIDs>
+        </Note>
+        <Note ID="39" FontSize="12.0" Position="997.504185,732.06236" Width="20.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>?</String>
+            <ConnectedNoteIDs>37</ConnectedNoteIDs>
+            <PointsToNoteIDs>37</PointsToNoteIDs>
+        </Note>
+        <Note ID="40" FontSize="12.0" Position="863.504185,705.06236" Width="20.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>?</String>
+            <ConnectedNoteIDs>37</ConnectedNoteIDs>
+            <PointsToNoteIDs>37</PointsToNoteIDs>
+        </Note>
+        <Note ID="41" FontSize="12.0" Position="748.69322,51.90346" Width="53.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Share it!</String>
+            <ConnectedNoteIDs>2</ConnectedNoteIDs>
+        </Note>
+    </Notes>
+    <BackgroundShapes></BackgroundShapes>
+    <AutoFit>1-4, 6-17, 19-25, 29-35, 37-41</AutoFit>
+    <NoteStyles>
+        <Style Name="Title Text" ID="80ED09D1-A7CD-4ADF-8A45-86EC859A405C" AffectFontStyle="Yes" AffectAlignment="Yes" AffectTextColor="No" AffectNoteBody="No" AffectFade="No">
+            <FontSize>28.0</FontSize>
+            <IsBold>Yes</IsBold>
+        </Style>
+        <Style Name="Red Text" ID="B0904DBB-66C2-47B7-B320-B3CA4732925C" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="Yes" AffectNoteBody="No" AffectFade="No">
+            <TextColor>1.0 0.0 0.0</TextColor>
+        </Style>
+        <Style Name="Brown Bubble" ID="CB82B61B-E27F-4241-A195-2C091307164E" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No">
+            <BorderThickness>1</BorderThickness>
+            <BorderColor>0.290055 0.1523 0.182215</BorderColor>
+            <FillColor>0.940019 0.892907 0.779716</FillColor>
+        </Style>
+        <Style Name="Yellow Bubble" ID="0BEBB1B2-AD4F-40BC-AC07-D110D8B4CAE9" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No">
+            <BorderThickness>1</BorderThickness>
+            <BorderColor>0.756763 0.785592 0.373258</BorderColor>
+            <FillColor>0.906773 0.910625 0.634363</FillColor>
+        </Style>
+        <Style Name="Green Bubble" ID="2B5CEA87-662A-4365-AA15-4F987EB15B42" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No">
+            <BorderThickness>1</BorderThickness>
+            <BorderColor>0.331867 0.609932 0.356197</BorderColor>
+            <FillColor>0.790123 0.882327 0.80198</FillColor>
+        </Style>
+        <Style Name="Blue Bubble" ID="3A4271D8-842B-453D-AA46-48FE88E2DAE3" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No">
+            <BorderThickness>1</BorderThickness>
+            <BorderColor>0.477193 0.557066 0.76433</BorderColor>
+            <FillColor>0.840969 0.866828 0.925903</FillColor>
+        </Style>
+        <Style Name="Pink Bubble" ID="46D4D308-A8B8-4D06-8861-48F67422F9D0" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No">
+            <BorderThickness>1</BorderThickness>
+            <BorderColor>0.747881 0.366532 0.542813</BorderColor>
+            <FillColor>0.918452 0.807302 0.863467</FillColor>
+        </Style>
+    </NoteStyles>
+    <UISettings>
+        <BackgroundColor>0.999737 0.986332 0.931298</BackgroundColor>
+        <DefaultFont>Helvetica</DefaultFont>
+        <DefaultTextColor>0.0 0.0 0.0</DefaultTextColor>
+    </UISettings>
+    <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
+</ScappleDocument>
